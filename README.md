@@ -60,7 +60,7 @@ Windows customization modding tool.
 
 ---
 
-# 🪟 AppName
+## 🪟 AppName
 > [!NOTE] 
 > This setup is compatible with the latest version of **AppName**.
 
