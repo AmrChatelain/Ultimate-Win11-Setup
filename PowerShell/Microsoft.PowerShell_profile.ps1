@@ -15,5 +15,5 @@ if (Get-Command oh-my-posh -ErrorAction SilentlyContinue) {
 
 # Force Fastfetch to use YOUR config every time (bypass path confusion)
 if (Get-Command fastfetch -ErrorAction SilentlyContinue) {
-    fastfetch -c "C:/Users/Administrator/.config/fastfetch/config.jsonc"
+    fastfetch -c "C:/Users/%USERPROFILE%/.config/fastfetch/config.jsonc"
 }
