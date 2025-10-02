@@ -13,14 +13,28 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 
 ## 📑 Table of Contents
 
-| Tool/Customization | App/Config |
+| 📚 Entry | ✨ App |
 |---------------------|------------|
-| Taskbar             | [YASB](#yasb) |
-| System Tweaks       | [Windhawk](#windhawk) |
-| Widgets             | [XWidget](#xwidget) |
-| Terminal Setup      | [Windows Terminal](#windows-terminal) |
-| Browser Setup       | [Arc Browser](#arc-browser) |
+| Status Bar          | [YASB](#yasb) |
+| Window Manager      | [GlazeWM](#glazewm) |
+| App Launcher        | [Flow Launcher](#flowlauncher) |
+| Taskbar             | [Windhawk](#windhawk) |
+| Text Editor         | [VSCode](#vscode) |
+| Terminal            | [Windows Terminal](#windows-terminal) |
+| Browser             | [Brave](#brave) |
+| System Fetch        | [Winfetch](#winfetch) |   
+| Shell Prompt        | [Oh My Posh](#ohmyposh) |
+| Audio Visualizer    | [Cava](#cava) |
 | Other Tools         | [Extras](#extras) |
+
+Other
+
+| 📚 Entry | ✨ App |
+|---------------------|------------|
+| Colorscheme         | [Catppuccin Mocha](#catppuccinmocha) |
+| Font                | [JetBrainsMono Nerd Font](#jetbrainsmononerdfont) |
+| Taskbar             | [Windhawk](#windhawk) |
+
 
 ---
 
