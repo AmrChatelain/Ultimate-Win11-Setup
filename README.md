@@ -27,6 +27,7 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 | Audio Visualizer    | [Cava](#cava) |
 | Music Player        | [Spotify](#spotify) | 
 | Note Taking         | [Notesnook](#notesnook) |
+| Screen Recording    | [OBS Studio](#obsstudio) |
 | Other Tools         | [Extras](#extras) |
 
 Other
