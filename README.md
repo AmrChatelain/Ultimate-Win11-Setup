@@ -60,11 +60,19 @@ Windows customization modding tool.
 
 ---
 
-### XWidget
-Lightweight widget engine for desktop.  
-**Features:**
-- Clock, weather, system monitor  
-- Customizable styles  
+# 🪟 AppName
+> **Note**  
+> This setup is compatible with the latest version of **AppName**.
+
+A short description about what the app/config does and why you’re using it.  
+(Example: Minimal tiling window manager setup with custom keybindings and themes.)
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [setup video](https://www.youtube.com/watch?v=your-video-id).
+- Install [**AppName**](https://appname-website.com/download)   
+- Copy the config file:  
+  `windots/.config/appname/config.file → %USERPROFILE%\.config\appname\config.file`  
+- Restart **AppName** for the changes to take effect
 
 ---
 
