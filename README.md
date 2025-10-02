@@ -22,9 +22,11 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 | Text Editor         | [VSCode](#vscode) |
 | Terminal            | [Windows Terminal](#windows-terminal) |
 | Browser             | [Brave](#brave) |
-| System Fetch        | [Winfetch](#winfetch) |   
+| System Fetch        | [Fastfetch](#Fastfetch) |   
 | Shell Prompt        | [Oh My Posh](#ohmyposh) |
 | Audio Visualizer    | [Cava](#cava) |
+| Music Player        | [Spotify](#spotify) | 
+| Note Taking         | [Notesnook](#notesnook) |
 | Other Tools         | [Extras](#extras) |
 
 Other
@@ -33,7 +35,6 @@ Other
 |---------------------|------------|
 | Colorscheme         | [Catppuccin Mocha](#catppuccinmocha) |
 | Font                | [JetBrainsMono Nerd Font](#jetbrainsmononerdfont) |
-| Taskbar             | [Windhawk](#windhawk) |
 
 
 ---
