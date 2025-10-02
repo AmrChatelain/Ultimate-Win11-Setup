@@ -61,7 +61,7 @@ Windows customization modding tool.
 ---
 
 # 🪟 AppName
-> **Note**  
+> [!NOTE] 
 > This setup is compatible with the latest version of **AppName**.
 
 A short description about what the app/config does and why you’re using it.  
