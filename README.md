@@ -41,14 +41,20 @@ Other
 
 ---
 
-## ⚡ Details
+# ⚡ Details
 
-### YASB
-Minimal yet powerful taskbar replacement with full customization.  
-**Features:**
-- Clean and modern look  
-- Widgets support  
-- Lightweight  
+## 📏 YASB
+> [!NOTE] 
+> Some stuff in my config might not work if you just copy and paste it. Be sure to app your api for the weather widget to work and your wallpaper folder location for the wallpapers widget
+
+A highly configurable Windows status bar written in Python. 
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [setup video](https://www.youtube.com/watch?v=your-video-id).
+- Install [**YASB**]([(https://github.com/amnweb/yasb)])   
+- Copy the config files from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/YASB).
+- Remove the codes from **your** YASB config and paste the one you just copied.
+- Restart **YASB** for the changes to take effect.
 
 ---
 
