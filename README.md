@@ -73,12 +73,18 @@ You can follow the steps below, or jump to the [setup video](https://youtu.be/b5
 
 ---
 
-### Windhawk
-Windows customization modding tool.  
-**Features:**
-- Change taskbar height & labels  
-- Unlock hidden tweaks  
-- Easy mod management  
+## 🦅 Windhawk
+> [!NOTE] 
+> Right now I have just listed the advance section codes for the mods I use. If your using the taskbar config of mine then it would remove the start menu and network icon. To add them back follow [**this**](https://github.com/ramensoftware/windows-11-taskbar-styling-guide)
+
+Windhawk aims to make it easier to customize Windows programs.
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [setup video](https://youtu.be/b57zFm3nVxA) if you wanna know more about the taskbar.
+- Install [**Windhawk**](https://windhawk.net/)   
+- Copy the config file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Windhawk).
+- Remove the codes from the advance section in **your** Windhawk mod and paste the one you just copied.
+- Click **Save settings** for the changes to take effect.
 
 ---
 
