@@ -51,7 +51,7 @@ Other
 A highly configurable Windows status bar written in Python. 
 
 **⚙️ Installation:**  
-You can follow the steps below, or jump to the [setup video](https://www.youtube.com/watch?v=your-video-id).
+You can follow the steps below, or jump to the [**setup video**](https://www.youtube.com/watch?v=your-video-id).
 - Install [**YASB**]([(https://github.com/amnweb/yasb)])   
 - Copy the config files from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/YASB).
 - Remove the codes from **your** YASB config and paste the one you just copied.
@@ -66,7 +66,7 @@ You can follow the steps below, or jump to the [setup video](https://www.youtube
 GlazeWM lets you easily organize windows and adjust their layout on the fly by using keyboard-driven commands.  
 
 **⚙️ Installation:**  
-You can follow the steps below, or jump to the [setup video](https://youtu.be/b57zFm3nVxA).
+You can follow the steps below, or jump to the [**setup video**](https://youtu.be/b57zFm3nVxA).
 - Install [**GlazeWM**](https://github.com/glzr-io/glazewm)   
 - Copy the config file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/GlazeWM).
 - Remove the codes from **your** GlazeWM config and paste the one you just copied.
@@ -81,7 +81,7 @@ You can follow the steps below, or jump to the [setup video](https://youtu.be/b5
 Windhawk aims to make it easier to customize Windows programs.
 
 **⚙️ Installation:**  
-You can follow the steps below, or jump to the [setup video](https://youtu.be/b57zFm3nVxA) if you wanna know more about the taskbar.
+You can follow the steps below, or jump to the [**setup video**](https://youtu.be/b57zFm3nVxA) if you wanna know more about the taskbar.
 - Install [**Windhawk**](https://windhawk.net/)   
 - Copy the config file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Windhawk).
 - Remove the codes from the advance section in **your** Windhawk mod and paste the one you just copied.
@@ -111,10 +111,27 @@ Installation guide was taken from [**here**](https://github.com/catppuccin/flow-
 Add background Blur effect or Acrylic or Mica effect to explorer for win10 and win11
 
 **⚙️ Installation:**  
-You can follow the steps below, or jump to the [setup video](https://youtu.be/gpGeCZXXsbs).
+You can follow the steps below, or jump to the [**setup video**](https://youtu.be/gpGeCZXXsbs).
 - Install [**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica/releases)   
 - Copy the config file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/File%20Explorer).
 - For the next part, I'm using the default stuff so just follow the installation from [**here**](https://github.com/Maplespe/ExplorerBlurMica?tab=readme-ov-file#install) 
+
+---
+
+## 👾 Terminal + Fastfetch
+> [!NOTE] 
+> If you just wanna fully use it just like I'm using then I recommend watchng the video. If you just want the config for Fastfetch then just paste the config where **your** Fastfetch config is located. If you have a PowerShell profile then just add your location and other stuff in your profile yourself as idk what you got.
+ 
+Fastfetch is a neofetch-like tool for fetching system information and displaying it in a visually appealing way. It is written mainly in C, with a focus on performance and customizability.
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [**setup video**](https://youtu.be/z3NpVq-y6jU) if you want your terminal to look 1:1 to mine.
+- Install [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch/releases) and I believe you already got the **Windows terminal** installed.
+- Copy the config file for your Terminal [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Terminal), PowerShell profile from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/PowerShell) and Fastfetch config from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Fastfetch)
+- Remove the codes from the settings.json file in **your terminal** and paste the one you just copied from above. Do the same thing for your PowerShell profile.
+- Create a **.config** *hidden* file in your C:\Users\%USERPROFILE% and create a folder called **fastfetch** inside. Copy the config and ascii code you just downloaded and paste it in that folder.
+- Change the %USERPROFILE% from the config file in the fastfetch folder and the PowerShell profile with **your username**..
+- Restart your terminal and your done. If this feel complicated just watch the [**setup video**](https://youtu.be/z3NpVq-y6jU).
 
 ---
 
@@ -131,15 +148,6 @@ You can follow the steps below, or jump to the [setup video](https://www.youtube
 - Copy the config file:  
   `windots/.config/appname/config.file → %USERPROFILE%\.config\appname\config.file`  
 - Restart **AppName** for the changes to take effect
-
----
-
-### Windows Terminal
-My go-to terminal setup for dev work.  
-**Features:**
-- Custom themes  
-- PowerShell 7 integration  
-- Fast and responsive  
 
 ---
 
