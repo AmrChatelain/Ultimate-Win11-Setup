@@ -58,6 +58,21 @@ You can follow the steps below, or jump to the [setup video](https://www.youtube
 
 ---
 
+## 🪟 GlazeWM + YASB
+> [!NOTE] 
+> If your using my config then Zebar won't work as I use GlazeWM with YASB. I recommend adding those 2 lines of code back which I had deleted if you wanna use Zebar
+
+GlazeWM lets you easily organize windows and adjust their layout on the fly by using keyboard-driven commands.  
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [setup video](https://youtu.be/b57zFm3nVxA).
+- Install [**GlazeWM**](https://github.com/glzr-io/glazewm)   
+- Copy the config file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/GlazeWM).
+- Remove the codes from **your** GlazeWM config and paste the one you just copied.
+- Restart **GlazeWM** for the changes to take effect.
+
+---
+
 ### Windhawk
 Windows customization modding tool.  
 **Features:**
