@@ -29,6 +29,7 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 | Music Player        | [Spotify](#spotify) | 
 | Note Taking         | [Notesnook](#notesnook) |
 | Screen Recording    | [OBS Studio](#obsstudio) |
+| File Explorer Mod   | [ExplorerBlurMica](#ExplorerBlurMica) |
 | Other Tools         | [Extras](#extras) |
 
 Other
@@ -100,6 +101,20 @@ You can follow the steps below,
 - Move your theme file downloaded in Step 1 to this directory, and restart Flow Launcher.
 - Again in Flow Launcher's Settings window, select **Appearance** on the sidebar, and select your Catppuccin flavor from the list of themes.
 Installation guide was taken from [**here**](https://github.com/catppuccin/flow-launcher). Thanks :)
+
+---
+
+## 📁 ExplorerBlurMica
+> [!NOTE] 
+> A few people had said that they are getting bugs and crashes by using this, so I recommend to now use it and follow the windhawk method **here** (video will be added soon)
+
+Add background Blur effect or Acrylic or Mica effect to explorer for win10 and win11
+
+**⚙️ Installation:**  
+You can follow the steps below, or jump to the [setup video](https://youtu.be/gpGeCZXXsbs).
+- Install [**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica/releases)   
+- Copy the config file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/File%20Explorer).
+- For the next part, I'm using the default stuff so just follow the installation from [**here**](https://github.com/Maplespe/ExplorerBlurMica?tab=readme-ov-file#install) 
 
 ---
 
