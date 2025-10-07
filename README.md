@@ -88,6 +88,21 @@ You can follow the steps below, or jump to the [setup video](https://youtu.be/b5
 
 ---
 
+## 🔍 Flow Launcher
+
+Quick File Search & App Launcher for Windows
+
+**⚙️ Installation:**  
+You can follow the steps below,
+- Install [**Flow Launcher**](https://www.flowlauncher.com/).
+- Download the theme file from [**here**](https://github.com/SleepyCatHey/Ultimate-Win11-Setup/tree/main/Flow%20Launcher).
+- Open Flow Launcher's Settings window, select **Appearance** on the sidebar, and click the "Open Theme Folder" button at the bottom.
+- Move your theme file downloaded in Step 1 to this directory, and restart Flow Launcher.
+- Again in Flow Launcher's Settings window, select **Appearance** on the sidebar, and select your Catppuccin flavor from the list of themes.
+Installation guide was taken from [**here**](https://github.com/catppuccin/flow-launcher). Thanks :)
+
+---
+
 ## 🪟 AppName
 > [!NOTE] 
 > This setup is compatible with the latest version of **AppName**.
