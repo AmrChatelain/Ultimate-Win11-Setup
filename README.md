@@ -145,3 +145,24 @@ You can follow the steps below, or jump to the [**setup video**](https://youtu.b
 > and it will give Undefined
 > then you can run  Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 > and you're good to go and to check you can run Test-Path $PROFILE
+
+
+**⚙️ Discord
+Use BetterDiscord
+
+Go to the official BetterDiscord website: https://betterdiscord.app/
+
+Download and install BetterDiscord for your platform.
+
+After installation, open Discord.
+
+Go to User Settings → Themes (you’ll see this new section under “BetterDiscord”).
+
+Click “Open Themes Folder”.
+
+Create a new file (e.g., catppuccin.theme.css) and paste this line in:
+
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");
+
+
+Save the file and enable it in the Themes menu.
