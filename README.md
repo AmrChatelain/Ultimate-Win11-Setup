@@ -138,36 +138,10 @@ You can follow the steps below, or jump to the [**setup video**](https://youtu.b
 
 ---
 
-## 🪟 AppName
+## 🪟 AC
 > [!NOTE] 
-> This setup is compatible with the latest version of **AppName**.
-
-A short description about what the app/config does and why you’re using it.  
-(Example: Minimal tiling window manager setup with custom keybindings and themes.)
-
-**⚙️ Installation:**  
-You can follow the steps below, or jump to the [setup video](https://www.youtube.com/watch?v=your-video-id).
-- Install [**AppName**](https://appname-website.com/download)   
-- Copy the config file:  
-  `windots/.config/appname/config.file → %USERPROFILE%\.config\appname\config.file`  
-- Restart **AppName** for the changes to take effect
-
----
-
-### Arc Browser
-Browser for work + aesthetic flow.  
-**Features:**
-- Minimal UI  
-- Vertical tabs  
-- Productivity features  
-
----
-
-### Extras
-Other little tools & tweaks I use.  
-- [Wallpaper Engine](#)  
-- [AutoHotKey Scripts](#)  
-- [RoundedTB](#)  
-
----
-
+> if you got an error and didn't work just run this
+> PS C:\Users\(you username)> Get-ExecutionPolicy -List
+> and it will give Undefined
+> then you can run  Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+> and you're good to go and to check you can run Test-Path $PROFILE
